@@ -1,1 +1,1 @@
-This is a basic landing page
+This is a landing page made by Sankalp
